@@ -1,0 +1,27 @@
+body {
+	background-color: grey;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.jumbotron-fluid {
+	background-image: url(TacosS.jpg);
+	background-size: cover; 
+	height: 100%;
+}
+
+.display-4 {
+	color: white;
+}
+
+.lead {
+	color: white;
+}
+
+.paragraphs>p {
+	transition: all 0.5s;
+}
+
+.paragraphs>p:hover {
+	transform: translateX(15px);
+}
+
