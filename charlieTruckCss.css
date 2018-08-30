@@ -18,6 +18,8 @@ body {
 }
 
 .paragraphs>p {
+	margin-left: 5%;
+	margin-right: 5%;
 	transition: all 0.5s;
 }
 
